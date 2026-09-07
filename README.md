@@ -6,7 +6,8 @@ consistently and aligned with each user's role within the organization. <br />
 - Okta
 <h2>Operating Systems Used </h2>
 - Windows 11
-<h2>The groups are titled Sales, HR, IT for our Sales, HR, IT departments. All of the rules
-automatically assign users to said groups upon Activation.</h2>
+<h2>Configured rules that automatically assign users to the Sales, HR, or IT group based on department attribute upon account activation.</h2>
 <p>
 <img width="926" height="572" alt="image" src="https://github.com/user-attachments/assets/005836c0-60d1-4a67-951f-f004359a02c5" />
+<p>
+Group rule configured to auto-assign users based on department attribute.
